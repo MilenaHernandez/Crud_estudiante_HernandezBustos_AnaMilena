@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Crud_estudiante_HernandezBustos_AnaMilena</string>
+    <string name="btnInicio">Agregar estudiante</string>
+    <string name="nombre">Nombre</string>
+    <string name="documento">Num. Documento</string>
+    <string name="edad">Edad</string>
+    <string name="email">Email</string>
+    <string name="celular">Celular</string>
+    <string name="programa">Programa</string>
+    <string name="salir">Salir</string>
+    <string name="saludar">Saludar</string>
+    <string name="nuevoProfe">Agregar profesor</string>
+    <string name="listProfe">Listar profesores</string>
+    <string name="profesion">Profesión</string>
+    <string name="guardar">Guardar</string>
+</resources>

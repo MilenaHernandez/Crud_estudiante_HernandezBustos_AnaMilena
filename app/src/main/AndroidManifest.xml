@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="co.edu.uts.sistemas.crud_estudiante_hernandezbustos_anamilena">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.Crud_estudiante_HernandezBustos_AnaMilena">
+        <activity android:name=".ListarProfesoresActivity"></activity>
+        <activity android:name=".CrearProfesorActivity" />
+        <activity android:name=".SaludarEstudianteActivity" />
+        <activity android:name=".CrearEstudianteActivity" />
+        <activity android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>
